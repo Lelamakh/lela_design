@@ -5,6 +5,17 @@ a{
 
 .image{
 	width:100%; 
+.main_image{
+    width: 1640px;
+    height:613px;
+    object-fit: cover;
+}
+
+}
+.article_png{
+	width:483px;
+	height:282px;
+	object-fit: cover;
 }
 
 h4{
